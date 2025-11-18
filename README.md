@@ -17,7 +17,7 @@ Repository for studies, labs, and small projects related to Cloud Computing, Dev
 
 ## 🇵🇹 Featured Project: Portuguese NIF Validation
 
-### 📂 `Scripts/validate_nif.py`
+### 📂 `Scripts/scriptnif.py`
 
 **Context:**
 This Python script was developed as part of a university course project focused on file automation for accounting workflows.
