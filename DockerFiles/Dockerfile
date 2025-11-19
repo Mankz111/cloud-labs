@@ -6,4 +6,7 @@ FROM debian:stable-slim
 
 # execute the 'echo "hello world"'
 # command when the container runs
-CMD ["echo", "hello world"]
+
+# COPY source destination
+COPY cloud-labs /bin/cloud-labs
+CMD ["/bin/cloud-labs"]
